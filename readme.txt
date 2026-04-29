@@ -143,7 +143,7 @@ $env:CHINOOK_DB_HOST     = "localhost"
 $env:CHINOOK_DB_PORT     = "3306"
 $env:CHINOOK_DB_NAME     = "u25021002_chinook"
 $env:CHINOOK_DB_USERNAME = "root"
-$env:CHINOOK_DB_PASSWORD = "Hangwani3"
+$env:CHINOOK_DB_PASSWORD = "mypassword"
 
 java -cp "C:\Users\onale\OneDrive\Desktop\Uni\COS 221\Prac 4\u25021002_chinook_pa4\out;C:\Users\onale\OneDrive\Desktop\mysql-connector-j-8.3.0.jar" chinook.ChinookApp
 
